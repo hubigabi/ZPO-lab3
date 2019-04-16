@@ -20,6 +20,7 @@ public class Main {
             System.out.println("1 -> Wątki");
             System.out.println("2 -> Pula wątków");
             System.out.println("3 -> Stream API");
+            System.out.println("4 -> Koniec programu");
             System.out.println("Wybierz opcje: ");
             int choice = scanner.nextInt();
             switch (choice) {
