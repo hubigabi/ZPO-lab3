@@ -1,4 +1,4 @@
-# ZPO-lab3
+# ZPO-lab3 Threads
 
 Autorzy: Hubert Gabryszewski, Łukasz Szadowski
 
